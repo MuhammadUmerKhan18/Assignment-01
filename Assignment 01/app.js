@@ -1,11 +1,13 @@
 // chapter 1 Alert
 
+// alert("Hello! Welcome to my website");
+
 // alert("Error! please enter a valid password.")
 
-// alert("Welcome to JS land \n Happay Coding")
+// alert("Welcome to JS land \n Happy Coding")
 
 // alert("Welcome to JS Land..")
-// alert("Please this page from creatiing additional dialogs. ")
+// alert("Happy Coding!")
 
 // console.log(alert("Hello..I can run JS through my web brower console "))
 
